@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **A Fake New Detection System using Blockchain**
 
-- 🌱 I’m currently learning **php and mongodb**
+- 🌱 I’m currently learning **AI Models and Blockchain ecosystems**
 
 - 💬 Ask me about **AWS**
 
