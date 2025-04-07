@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syl-vy&label=Profile%20views&color=0e75b6&style=flat" alt="syl-vy" /> </p>
 
-- 🔭 I’m currently working on **A Fake New Detection System using Blockchain**
+- 🔭 I’m currently working on **Sarcasm Aware Emotion Classification in English and Hindi Texts with Abbreviations **
 
-- 🌱 I’m currently learning **AI Models and Blockchain ecosystems**
+- 🌱 I’m currently learning **AI Models**
 
 - 💬 Ask me about **AWS**
 
