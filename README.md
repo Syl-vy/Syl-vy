@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syl-vy&label=Profile%20views&color=0e75b6&style=flat" alt="syl-vy" /> </p>
 
-- 🔭 I’m currently working on **Sarcasm Aware Emotion Classification in English and Hindi Texts with Abbreviations and applying some simle ML to a random biosensor project**
+- 🔭 I’m currently working on **Sarcasm Aware Emotion Classification in English and Hindi Texts with Abbreviations and applying some simple ML models to a project related to biosensors**
 
 - 🌱 I’m currently learning **AI Models**
 
