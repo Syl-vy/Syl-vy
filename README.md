@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **palakhk09@gmail.com**
 
-- 📄 Know about my experiences [[https://docs.google.com/document/d/1pqdqILcoGGnlAv-j74P8uV5V88FPaI8cLZKU6Zeypq8/edit#heading=h.yk8luflkpwij](https://docs.google.com/document/d/1pqdqILcoGGnlAv-j74P8uV5V88FPaI8cLZKU6Zeypq8/edit#heading=h.yk8luflkpwij)](https://docs.google.com/document/d/19uwnH_vy7CDgDKyQE5h0pwHIMlN31ZP3/edit?usp=sharing&ouid=112270030859257388075&rtpof=true&sd=true)
+- 📄 Know about my experiences (https://docs.google.com/document/d/1pqdqILcoGGnlAv-j74P8uV5V88FPaI8cLZKU6Zeypq8/edit#heading=h.yk8luflkpwij)](https://docs.google.com/document/d/19uwnH_vy7CDgDKyQE5h0pwHIMlN31ZP3/edit?usp=sharing&ouid=112270030859257388075&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
