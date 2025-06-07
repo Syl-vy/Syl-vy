@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **palakhk09@gmail.com**
 
-*- 📄 Know about my experiences https://docs.google.com/document/d/19uwnH_vy7CDgDKyQE5h0pwHIMlN31ZP3/edit?usp=sharing&ouid=112270030859257388075&rtpof=true&sd=true*
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/palak kaushik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palak kaushik" height="30" width="40" /></a>
